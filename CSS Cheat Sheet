@@ -1,0 +1,48 @@
+
+# 📘 CSS Cheat Sheet – Most Used Properties
+
+| **Category**                | **Property**                  | **Example**                       | **Purpose**                       |
+| --------------------------- | ----------------------------- | --------------------------------- | --------------------------------- |
+| 🎨 **Text & Fonts**         | `color`                       | `color: red;`                     | Text color                        |
+|                             | `font-size`                   | `font-size: 18px;`                | Size of text                      |
+|                             | `font-family`                 | `font-family: Arial, sans-serif;` | Font style                        |
+|                             | `font-weight`                 | `font-weight: bold;`              | Boldness                          |
+|                             | `text-align`                  | `text-align: center;`             | Align text                        |
+|                             | `text-decoration`             | `text-decoration: none;`          | Remove underline                  |
+|                             | `line-height`                 | `line-height: 1.5;`               | Space between lines               |
+| 📦 **Box Model**            | `width / height`              | `width: 200px; height: 100px;`    | Element size                      |
+|                             | `margin`                      | `margin: 20px;`                   | Space outside element             |
+|                             | `padding`                     | `padding: 10px;`                  | Space inside element              |
+|                             | `border`                      | `border: 1px solid black;`        | Border around element             |
+|                             | `box-sizing`                  | `box-sizing: border-box;`         | Includes border & padding in size |
+| 🎯 **Layout & Positioning** | `display`                     | `display: flex;`                  | Defines layout type               |
+|                             | `position`                    | `position: absolute;`             | Position control                  |
+|                             | `top / left / right / bottom` | `top: 10px;`                      | Position offsets                  |
+|                             | `float`                       | `float: left;`                    | Push elements left/right          |
+|                             | `clear`                       | `clear: both;`                    | Stops float overlap               |
+|                             | `z-index`                     | `z-index: 10;`                    | Layer order                       |
+| 🖼️ **Background**          | `background-color`            | `background-color: lightblue;`    | Background color                  |
+|                             | `background-image`            | `background-image: url(bg.jpg);`  | Background image                  |
+|                             | `background-size`             | `background-size: cover;`         | Image scaling                     |
+|                             | `background-repeat`           | `background-repeat: no-repeat;`   | Prevent repeating                 |
+|                             | `background-position`         | `background-position: center;`    | Image position                    |
+| 📐 **Flexbox**              | `display`                     | `display: flex;`                  | Enables flexbox                   |
+|                             | `flex-direction`              | `flex-direction: column;`         | Row / Column layout               |
+|                             | `justify-content`             | `justify-content: space-between;` | Horizontal alignment              |
+|                             | `align-items`                 | `align-items: center;`            | Vertical alignment                |
+|                             | `flex-wrap`                   | `flex-wrap: wrap;`                | Wraps items                       |
+| 🟦 **Grid**                 | `display`                     | `display: grid;`                  | Enables grid                      |
+|                             | `grid-template-columns`       | `grid-template-columns: 1fr 1fr;` | Defines columns                   |
+|                             | `grid-template-rows`          | `grid-template-rows: auto auto;`  | Defines rows                      |
+|                             | `gap`                         | `gap: 10px;`                      | Space between items               |
+| ✨ **Effects & Animation**   | `opacity`                     | `opacity: 0.7;`                   | Transparency                      |
+|                             | `cursor`                      | `cursor: pointer;`                | Mouse pointer style               |
+|                             | `transition`                  | `transition: all 0.3s;`           | Smooth animations                 |
+|                             | `transform`                   | `transform: scale(1.2);`          | Rotate/Scale/Move                 |
+|                             | `box-shadow`                  | `box-shadow: 0 4px 8px gray;`     | Shadow effect                     |
+|                             | `border-radius`               | `border-radius: 10px;`            | Rounded corners                   |
+| 📜 **Overflow**             | `overflow`                    | `overflow: hidden;`               | Handle extra content              |
+
+---
+
+⚡ With this cheat sheet, you can **cover 90% of daily CSS work**.
