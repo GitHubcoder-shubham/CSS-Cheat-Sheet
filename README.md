@@ -1,5 +1,3 @@
-https://chatgpt.com/s/t_68a6fbd963d08191857d5371277304f1
-Great question ⚡ – CSS has many **measuring units** (for size, spacing, fonts, layout). I’ll give you a **complete list with full form, range, example, and meaning** so you never get confused.
 
 ---
 
@@ -104,5 +102,3 @@ Great question ⚡ – CSS has many **measuring units** (for size, spacing, font
 * **Hi-res displays → `dpi`, `dppx`**
 
 ---
-
-👉 Do you want me to make a **visual chart/diagram (mind map)** for these units so you can **revise quickly** instead of reading the table every time?
