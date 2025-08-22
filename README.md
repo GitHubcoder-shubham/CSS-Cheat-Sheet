@@ -1,4 +1,4 @@
-For More details --> **Property Name - mdn css ** 
+For More details --> Property Name - mdn css 
 ---
 
 # 📘 CSS Cheat Sheet – Most Used Properties
