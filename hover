@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tooltip Example</title>
+  <style>
+   
+
+   .tooltip {
+      position: relative;
+      display: inline-block;
+      cursor: default;
+    }
+
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      padding: 0.25em 0.5em;
+      background-color: black;
+      color: #fff;
+      text-align: left;
+      border-radius: 0.25em;
+      white-space: nowrap;
+      
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1;
+      top: 100%;
+      left: 100%;
+      transition-property: visibility;
+      transition-delay: 0s;
+    }
+
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+      transition-delay: 0.3s;
+    }
+  </style>
+</head>
+<body>
+  <div class="tooltip">Hover over me
+    <span class="tooltiptext">
+        text-align: start; <br>
+        text-align: end; <br>
+        text-align: left; <br>
+        text-align: right; <br>
+        text-align: center; <br>
+        text-align: justify; <br>
+        text-align: match-parent; <br>
+    </span>
+  </div>
+</body>
+</html>
