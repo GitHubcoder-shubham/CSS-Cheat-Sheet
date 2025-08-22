@@ -12,7 +12,7 @@ For More details --> Property Name - mdn CSS
 |                             | `text-align`                  | `text-align: center;`             | Align text                        |
 |                             | `text-decoration`             | `text-decoration: none;`          | Remove underline                  |
 |                             | `line-height`                 | `line-height: 1.5;`               | Space between lines               |
-|                             | `letter-spacing`              | `letter-spacing: 2px;;`           | Space between letters; + = wider, - = tighter.              |
+|                             | `letter-spacing`              | `letter-spacing: 2px;;`           | Space between letters; positive = wider, negative = tighter.  |
 | 📦 **Box Model**            | `width / height`              | `width: 200px; height: 100px;`    | Element size                      |
 |                             | `margin`                      | `margin: 20px;`                   | Space outside element             |
 |                             | `padding`                     | `padding: 10px;`                  | Space inside element              |
